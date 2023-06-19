@@ -1,0 +1,18 @@
+{
+  "appStr_app_name": "Quotes App",
+  "opps": "OPPS !",
+
+  "welcome": "Welcome",
+  "ok": "Ok",
+  "cancel": "Cancel",
+  "appStr_reload_screen": "Reload Screen",
+  "want_to_logout": "Do you want to logout ?",
+  "logout": "Logout",
+
+  "errors_Please_Try_again_later": "Please Try again later ...",
+  "error_offline": "Please check your Internet Connection and try again",
+  "errors_server": "Something Went Wrong",
+  "error_try_again": "Try Again",
+  "errors_cache": "No Data Found",
+  "errors_unExpected":"Unexpected Error , Please Try again later"
+}

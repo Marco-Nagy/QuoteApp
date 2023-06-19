@@ -1,0 +1,20 @@
+{
+  
+  "appStr_app_name": " مقولات مميزة",
+  "appStr_reload_screen": "إعادة تحميل الصفحة",
+
+  "opps": "عفواً !",
+  "welcome": "أهلًا بك",
+  "ok": "موافق",
+  "cancel": "إلغاء",
+  "want_to_logout": "هل تريد تسجيل الخروج؟",
+  "logout": "تسجيل خروج",
+
+  "errors_Please_Try_again_later": "حاول مجددا فى وقت لاحق ...",
+  "error_offline": "من فضلك أفحص اتصالك بالانترنت ، وأعد المحاولة",
+  "error_try_again": "حاول مجدداَ",
+  "errors_server": "حدث خطأ ما",
+  "errors_cache": "لايوجد بيانات",
+  "errors_unExpected":"خطأ غير متوقع ، يرجى المحاولة مرة أخرى لاحقًا"
+
+}
